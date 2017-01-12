@@ -1,3 +1,36 @@
+
+# Created by https://www.gitignore.io/api/windows,notepadpp,jekyll
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
+
+
+### Jekyll ###
 _site/
 .sass-cache/
 .jekyll-metadata
+
+# End of https://www.gitignore.io/api/windows,notepadpp,jekyll
